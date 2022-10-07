@@ -1,0 +1,5 @@
+option_renamer.renamer:
+  title: Rename Field Option
+  route_name: option_renamer.renamer
+  parent: system.admin_config_development
+  weight: 0

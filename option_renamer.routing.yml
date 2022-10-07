@@ -1,0 +1,7 @@
+option_renamer.renamer:
+  path: '/admin/config/development/field-option-renamer'
+  defaults:
+    _form: '\Drupal\option_renamer\Form\RenameOption'
+    _title: 'Rename list field option'
+  requirements:
+    _permission: 'rename list field options'

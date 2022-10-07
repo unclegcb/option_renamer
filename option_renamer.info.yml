@@ -1,0 +1,7 @@
+name: Option Renamer
+type: module
+description: Lets you change the machine name of a list field option.
+package: Custom
+core_version_requirement: ^9 || ^10
+dependencies:
+  - field_ui
